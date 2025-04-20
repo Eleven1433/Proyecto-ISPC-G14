@@ -13,7 +13,7 @@ https://github.com/Eleven1433/Proyecto-ISPC-G14.git
 
 **Integrantes**
 
-* Nicolas Calmucci		    Usuario Github: Eleven1433
-* Facundo Emanuel Fornes	Usuario Github: facu06-stack
-* Juan Ignacio Alonso		  Usuario Github: juanignacioalonso 
-* Cesar Ramiro Ruggieri		Usuario Github: subrami22
+* Nicolas Calmucci		-    Usuario Github: Eleven1433
+* Facundo Emanuel Fornes - 	Usuario Github: facu06-stack
+* Juan Ignacio Alonso		 -  Usuario Github: juanignacioalonso 
+* Cesar Ramiro Ruggieri	 - 	Usuario Github: subrami22
