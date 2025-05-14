@@ -15,7 +15,6 @@ https://github.com/Easy1089/Proyecto-ISPC-G1.wiki.git
 **Integrantes**
 
 * Nicolas Calmucci		-    Usuario Github: Eleven1433
-* Facundo Emanuel Fornes - 	Usuario Github: facu06-stack
 * Juan Ignacio Alonso		 -  Usuario Github: juanignacioalonso 
 * Cesar Ramiro Ruggieri	 - 	Usuario Github: subrami22
 * Ivan Massimino - Usuario Github: IvanMass99
