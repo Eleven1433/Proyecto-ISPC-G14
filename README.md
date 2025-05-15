@@ -11,6 +11,8 @@ https://github.com/Easy1089/Proyecto-ISPC-G1.wiki.git
 
 **Link a proyecto Kanban**
 
+https://github.com/users/Eleven1433/projects/1
+
 
 **Integrantes**
 
