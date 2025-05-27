@@ -58,7 +58,7 @@ Estas funcionalidades y perfiles de usuario pueden evolucionar según las necesi
 
 * Nicolas Elias Calmucci - Usuario Github: Eleven1433 / **Scrum master - Desarrollador**
 * Juan Ignacio Alonso -  Usuario Github: juanignacioalonso - **Desarrollador**
-* Cesar Ramiro Ruggieri	 - Usuario Github: subrami22- **Desarrollador**
+* Cesar Ramiro Ruggieri	 - Usuario Github: subrami22 - **Desarrollador**
 * Ivan Massimino - Usuario Github: IvanMass99 - **Desarrollador**
 
 
