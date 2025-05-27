@@ -1,6 +1,6 @@
 ﻿# Repositorio para Proyecto integrador Grupo 14 ISPC
 
-**Título del Proyecto:** Sistema de Gestion de Stock de medicamentos, FarmaStock.
+- 👀 **Título del Proyecto:** Sistema de Gestion de Stock de medicamentos, FarmaStock.
 
 **Breve Descripción de la Idea:** La idea de crear un sistema de gestión de medicamentos consiste en desarrollar una plataforma tecnológica que permita controlar y optimizar todos los procesos relacionados con el manejo de medicamentos dentro de una organización de salud. 
 
@@ -54,7 +54,7 @@ Módulos de formación y capacitación para usuarios.
 
 Estas funcionalidades y perfiles de usuario pueden evolucionar según las necesidades del sector y la integración con nuevas tecnologías.
 
-**Integrantes**
+👀 **Integrantes**
 
 * Nicolas Elias Calmucci - Usuario Github: Eleven1433 / **Scrum master - Desarrollador**
 * Juan Ignacio Alonso -  Usuario Github: juanignacioalonso - **Desarrollador**
