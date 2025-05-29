@@ -1,0 +1,39 @@
+git init: Inicializa un nuevo repositorio Git en el directorio actual, creando la estructura necesaria para empezar a controlar versiones.
+
+git clone <url>: Clona un repositorio remoto (por ejemplo, de GitHub) a tu máquina local, copiando todo el historial y archivos.
+
+git status: Muestra el estado actual de los archivos en tu proyecto, indicando cuáles están modificados, añadidos o sin seguimiento.
+
+git add <archivo>: Añade archivos específicos al área de preparación (stage), preparándolos para el próximo commit. Puedes usar git add . para añadir todos los cambios.
+
+git commit -m "mensaje": Crea un commit con los cambios preparados, guardando una instantánea con un mensaje descriptivo.
+
+git push: Envía tus commits locales al repositorio remoto configurado, actualizando la rama correspondiente.
+
+git pull: Trae los cambios del repositorio remoto y los fusiona con tu rama local para mantenerla actualizada.
+
+git branch: Lista las ramas locales existentes. También se usa para crear ramas con git branch <nombre>.
+
+git checkout <rama>: Cambia a la rama especificada para trabajar en ella.
+
+git checkout -b <rama>: Crea una nueva rama y cambia a ella en un solo paso.
+
+git merge <rama>: Fusiona los cambios de la rama indicada en la rama actual.
+
+git log: Muestra el historial de commits, con información sobre cada uno.
+
+git diff: Muestra las diferencias entre archivos o commits, útil para ver qué ha cambiado.
+
+git reset --soft HEAD~1: Deshace el último commit pero mantiene los cambios en el área de preparación para modificar o re-commitear.
+
+git reset --hard HEAD~1: Deshace el último commit y elimina los cambios del directorio de trabajo (pérdida de cambios).
+
+git stash: Guarda temporalmente los cambios no confirmados para limpiar el área de trabajo sin perder esos cambios.
+
+git stash pop: Aplica los cambios guardados con stash y los elimina de la lista de cambios almacenados.
+
+git remote add origin <url>: Añade un repositorio remoto para poder hacer push y pull.
+
+git fetch: Descarga los objetos y referencias desde un repositorio remoto sin fusionarlos automáticamente.
+
+git config --global user.name "Nombre" y git config --global user.email "email@ejemplo.com": Configuran tu nombre y correo para los commits.
