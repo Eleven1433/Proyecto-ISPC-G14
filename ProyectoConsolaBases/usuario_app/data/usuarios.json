@@ -10,5 +10,13 @@
     "Pablo": {
         "contrase\u00f1a": "abc123",
         "rol": "estandar"
+    },
+    "flor": {
+        "contrase\u00f1a": "abc123",
+        "rol": "estandar"
+    },
+    "donatello": {
+        "contrase\u00f1a": "abc123",
+        "rol": "estandar"
     }
 }
