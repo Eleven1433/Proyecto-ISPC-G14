@@ -1,15 +1,18 @@
-# Repositorio para Proyecto integrador Grupo 14 ISPC
+# Repositorio para ProyectoConsolaBases, Grupo 14 ISPC // Introduccion a la programacion y Bases de datos.
 
 **Link a repositorio de trabajo remoto**
 
-https://github.com/Eleven1433/Proyecto-ISPC-G14.git
+https://github.com/Eleven1433/Proyecto-ISPC-G14/edit/develop/ProyectoConsolaBases/
 
 
-**Link a Wiki**
+**Link a Wiki Actividades Grupales**
 
-https://github.com/Easy1089/Proyecto-ISPC-G1.wiki.git
+[https://github.com/Easy1089/Proyecto-ISPC-G1.wiki.git](https://github.com/Eleven1433/Proyecto-ISPC-G14/wiki/05-Actividades-grupales)
 
-**Link a proyecto Kanban**
 
-https://github.com/users/Eleven1433/projects/1
 
+**Integrantes**
+
+* Nicolas Elias Calmucci - Usuario Github: Eleven1433 / Scrum master - Desarrollador
+* Juan Ignacio Alonso - Usuario Github: juanignacioalonso - Desarrollador
+* Cesar Ramiro Ruggieri - Usuario Github: subrami22 - Desarrollador
