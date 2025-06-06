@@ -7,8 +7,7 @@ https://github.com/Eleven1433/Proyecto-ISPC-G14/edit/develop/ProyectoConsolaBase
 
 **Link a Wiki Actividades Grupales**
 
-[https://github.com/Easy1089/Proyecto-ISPC-G1.wiki.git](https://github.com/Eleven1433/Proyecto-ISPC-G14/wiki/05-Actividades-grupales)
-
+https://github.com/Eleven1433/Proyecto-ISPC-G14/wiki/05-Actividades-grupales
 
 
 **Integrantes**
