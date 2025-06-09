@@ -18,5 +18,9 @@
     "donatello": {
         "contrase\u00f1a": "abc123",
         "rol": "estandar"
+    },
+    "nico": {
+        "contrase\u00f1a": "abc123",
+        "rol": "estandar"
     }
 }
